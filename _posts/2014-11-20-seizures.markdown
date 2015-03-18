@@ -1,0 +1,8 @@
+---
+layout:     post
+title:      "Predicting epileptic seizures with convolutional neural networks"
+date:       2014-11-20 12:00:00
+author:     "Ira Korshunova"
+header-img: "img/post-bg-01.jpg"
+---
+
